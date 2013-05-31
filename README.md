@@ -182,10 +182,3 @@ System of Units (SI) - Conversion factors for General Use"](http://www.nist.gov/
 contains the approved conversion factors between various units and the base SI units.
 
 Also note that any new physical quantities should have the appropriate SI unit chosen for their native unit of measure.
-=======
-python-units-of-measure
-=======================
-
-A python library for converting units of measure
->>>>>>> 3b03640c5a08b6e72159c8454cc916ae4e64b1f4
-

@@ -1,4 +1,3 @@
-python-units-of-measure
 =======================
 
 # Python Units of Measure
